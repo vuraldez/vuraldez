@@ -7,7 +7,7 @@
 ## About me
 
 - ✨ Creating bugs since 2017
-- 📚 I'm currently learning C++ <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  
+- 📚 I'm currently learning C++   
 - 🎯 Goals: Traveling the world by writing code
 - 🎲 I like the watch supernatural movies 
 
