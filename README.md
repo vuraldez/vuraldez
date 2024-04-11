@@ -2,7 +2,7 @@
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
 
-<p> My name is Vural and I'm a full stack developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Toronto, Canada</b>. </p>
+<p> My name is Vural and I'm a full stack developer, from <b>Toronto, Canada</b>. </p>
 
 ## About me
 
