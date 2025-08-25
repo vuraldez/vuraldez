@@ -87,19 +87,20 @@ Hi there, My name is Vural Demir, and I'm a Toronto-based full stack developer. 
 <h3 align="center">🏆 Achievements & Projects</h3>
 
 <p align="center">
-  <!-- Fake award badges -->
   <img src="https://img.shields.io/badge/🏅-Top%201%25%20Developer-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🥇-Hackathon%20Winner-gold?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀-100%2B%20Projects%20Launched-success?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <!-- Showcase cards for "fake" projects -->
   <a href="https://example.com" target="_blank">
-    <img src="https://github.com/vuraldez/vuraldez/blob/main/assets/project1.png" alt="Project 1" width="300" />
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="Project 1" width="200" />
   </a>
   <a href="https://example.com" target="_blank">
-    <img src="https://github.com/vuraldez/vuraldez/blob/main/assets/project2.png" alt="Project 2" width="300" />
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Project 2" width="200" />
+  </a>
+  <a href="https://example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="Project 3" width="200" />
   </a>
 </p>
 
