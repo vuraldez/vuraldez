@@ -4,13 +4,13 @@
 
 Hi there, My name is Vural Demir, and I'm a Toronto-based full stack developer. Being occupied by the software sector since I was a young child has made my interest with technology a career passion. Growing with new technologies is something I enjoy doing as a developer in order to create modular, effective, and easy to use solutions. As I work on software development projects and learn about the power of code, I gain new knowledge every day.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vuraldez&label=Profile%20views&color=0e75b6&style=flat" alt="vuraldez" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=vuraldez&label=Profile%20views&color=0e75b6&style=flat](https://img.shields.io/static/v1?label=Profile%20views&message=1,000,000&color=0e75b6&style=flat)" alt="vuraldez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vuraldez" alt="vuraldez" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/vuraldez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vuraldez" height="30" width="40" /></a>
+<a href="https://instagram.com/vuraldezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vuraldez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
