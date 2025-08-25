@@ -84,8 +84,26 @@ Hi there, My name is Vural Demir, and I'm a Toronto-based full stack developer. 
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vuraldez&show_icons=true&locale=en&layout=compact" alt="vuraldez" /></p>
+<h3 align="center">🏆 Achievements & Projects</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vuraldez&show_icons=true&locale=en" alt="vuraldez" /></p>
+<p align="center">
+  <!-- Fake award badges -->
+  <img src="https://img.shields.io/badge/🏅-Top%201%25%20Developer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥇-Hackathon%20Winner-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀-100%2B%20Projects%20Launched-success?style=for-the-badge" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vuraldez&" alt="vuraldez" /></p>
+<p align="center">
+  <!-- Showcase cards for "fake" projects -->
+  <a href="https://example.com" target="_blank">
+    <img src="https://github.com/vuraldez/vuraldez/blob/main/assets/project1.png" alt="Project 1" width="300" />
+  </a>
+  <a href="https://example.com" target="_blank">
+    <img src="https://github.com/vuraldez/vuraldez/blob/main/assets/project2.png" alt="Project 2" width="300" />
+  </a>
+</p>
+
+<p align="center">
+  <i>⚡ Wency </i>
+</p>
+
