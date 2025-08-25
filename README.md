@@ -1,4 +1,6 @@
-# Vural Demir
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0e75b6&center=true&vCenter=true&lines=Hi%2C+I'm+Vural!;iOS+%26+JS+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
 **`Digital Craftsman (Developer/Gamer)`**
 
@@ -6,10 +8,6 @@ Hi there, My name is Vural Demir, and I'm a Toronto-based full stack developer. 
 
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=Profile%20views&message=1,245,232&color=0e75b6&style=flat" alt="just for fun 😄" title=":D!" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0e75b6&center=true&vCenter=true&lines=Hi%2C+I'm+Vural!;iOS+%26+JS+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
