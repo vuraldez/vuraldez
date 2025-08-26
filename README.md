@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0e75b6&center=true&vCenter=true&lines=Hi%2C+I'm+Vural!;iOS+%26+JS+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-**`Digital Craftsman (Developer/Coder)`**
-
-Hi there, My name is Vural Demir, and I'm a Toronto-based full stack developer. Being occupied by the software sector since I was a young child has made my interest with technology a career passion. Growing with new technologies is something I enjoy doing as a developer in order to create modular, effective, and easy to use solutions. As I work on software development projects and learn about the power of code, I gain new knowledge every day.
-
 <p align="left">
   <img src="https://img.shields.io/static/v1?label=Profile%20views&message=1,245,232&color=0e75b6&style=flat" alt="Wency" title=":D!" />
 </p>
+
+**`Digital Craftsman (Developer/Coder)`**
+
+Hi there, My name is Vural Demir, and I'm a Toronto-based full stack developer. Being occupied by the software sector since I was a young child has made my interest with technology a career passion. Growing with new technologies is something I enjoy doing as a developer in order to create modular, effective, and easy to use solutions. As I work on software development projects and learn about the power of code, I gain new knowledge every day.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
