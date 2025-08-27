@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=Profile%20views&message=1,245,232&color=0e75b6&style=flat" alt="Wency" title=":D!" />
+  <img src="https://img.shields.io/static/v1?label=Profile%20views&message=51,245,278&color=0e75b6&style=flat" alt="Wency" title=":D!" />
 </p>
 
 **`Full Stack Developer (Developer/Coder)`**
